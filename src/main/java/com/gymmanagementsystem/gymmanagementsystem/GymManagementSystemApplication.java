@@ -8,8 +8,8 @@ public class GymManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GymManagementSystemApplication.class, args);
-		System.out.println("hello springboot");
-		System.out.println("Made on LEGION");
+		System.out.println("Made on LEGION 5");
 	}
+
 
 }
